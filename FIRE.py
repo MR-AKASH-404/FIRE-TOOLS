@@ -1,3 +1,3 @@
 import os 
 import FIRE
-FIRE.loging()
+FIRE.loging.()
